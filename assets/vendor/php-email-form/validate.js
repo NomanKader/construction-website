@@ -1,6 +1,6 @@
 /**
 * PHP Email Form Validation - v3.7
-* URL: https://bootstrapmade.com/php-email-form/
+* URL: https://nksoftwarehouse.com/php-email-form/
 * Author: NK Software House.com
 */
 (function () {

@@ -2,7 +2,7 @@
 * Template Name: UpConstruction
 * Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
 * Updated: May 05 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
+* Author: NK Software House.com
 * License: https://bootstrapmade.com/license/
 */
 
